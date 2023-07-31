@@ -1,8 +1,9 @@
 <h1 align="left">Oi, Eu sou Guilherme Henrique!</h1>
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/guilhermehenriquelima/ecc4167a6e1d5f09b249f0cd3493ff21/raw/721bcc1253fa23a6fcacfe2a280d6a6ee10b3ab9/githubcard.svg"> 
 
-- 👋 Hi, I’m @guilhermehenriquelima
+- 👋 Hi, I’m Guilherme!
 - 👀 I’m interested in Java, JavaScript.
+- Buscando aprender cada mais sobre esse universo da tecnologia!
   
 
 <!---
