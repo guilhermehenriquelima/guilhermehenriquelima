@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Guilherme!
 - 👀 I’m interested in Java, JavaScript.
-- Buscando aprender cada mais sobre esse universo da tecnologia!
+- Buscando aprender cada vez mais sobre esse universo da tecnologia!
   
 
 <!---
